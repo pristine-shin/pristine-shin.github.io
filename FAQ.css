@@ -10,13 +10,14 @@
 .u-section-1 .u-image-1 {
   width: 489px;
   height: 489px;
-  background-image: url("images/profile-5mb.jpg");
-  background-position: 50% 50%;
+  background-image: url("images/IMG_2128.jpg");
+  background-position: 50% 75.42%;
   --animation-custom_in-translate_x: 50px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 180deg;
   --animation-custom_in-scale: 0.3;
+  background-size: cover;
   margin: 111px -16px 0 auto;
 }
 
