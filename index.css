@@ -620,7 +620,7 @@
     width: auto;
   }
 } .u-section-3 {
-  background-image: linear-gradient(to right, rgba(254, 231, 239, 1), rgba(197, 201, 249, 1));
+  background-image: linear-gradient(to right, rgba(var(--custom-color-4-r), var(--custom-color-4-g), var(--custom-color-4-b), 1), rgba(197, 201, 249, 1));
   background-position: 50% 50%;
   background-repeat: no-repeat;
   background-size: cover;
